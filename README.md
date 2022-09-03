@@ -1,0 +1,1 @@
+# test_task_classification_of_news
